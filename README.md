@@ -1,4 +1,4 @@
-# 13.08.2019
+# Tutorial 2
 This repository contains solutions for the exercise given as below:
 1. Write a program to gather data from twitter using a hashtag.
 2. Perform stopword removal, stemming, convertion to term-document matrix and check similarity between tweets using cosine similarity, Jaccard similarity, Dice coefficient
